@@ -201,7 +201,7 @@ Embedded System Developer + PCB Designer + Firmware
 
 ## 📬 Contact
 - GitHub: [yourgithub]/SmartStance
-- Email: dev_smartstance@gmail.com
+- Email: devsmartstance@gmail.com
 
 ---
 
