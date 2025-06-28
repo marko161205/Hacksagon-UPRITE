@@ -1,4 +1,4 @@
-# SmartStance Posture Monitoring Application
+# Uprite Device & SmartStance Application
 
 SmartStance is a cross-platform posture monitoring application built using **Flutter**. It monitors and classifies a user's back posture in real-time using dual IMU sensors placed on the upper and lower back. The system leverages Bluetooth Low Energy (BLE) communication, sensor fusion, and **entirely local logic** for posture classification — no machine learning or internet connectivity is required.
 
